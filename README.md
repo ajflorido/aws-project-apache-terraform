@@ -1,7 +1,7 @@
 # aws-project-apache-terraform
 The purpose of this repository is to created an Ubuntu Vm using terraform in AWS free tier an deploy an apache web server internally using differents concepts used by AWS and terraform.
 
-# Terraform:
+# Terraform
 - Provider
 - Outputs
 - Variables
@@ -11,7 +11,7 @@ The purpose of this repository is to created an Ubuntu Vm using terraform in AWS
 
 https://www.terraform.io/docs/index.html
 
-# Amazon :
+# Amazon
 
 - EC2
 - AMI
