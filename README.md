@@ -5,9 +5,9 @@ Terraform:
 - Provider
 - Outputs
 - Variables
-- Interpolation sintax
-- User data
-- Data sources
+- Interpolation Syntax
+- User Data
+- Data Sources
 
 https://www.terraform.io/docs/index.html
 
