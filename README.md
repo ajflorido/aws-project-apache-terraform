@@ -2,10 +2,9 @@
 The purpose of this repository is to created an Ubuntu Vm using terraform in AWS free tier an deploy an apache web server internally using differents concepts used by AWS and terraform.
 
 # Terraform
-- Provider
 - Outputs
 - Variables
-- Interpolation Syntax
+- Interpolation Syntax ( functions )
 - User Data
 - Data Sources
 
